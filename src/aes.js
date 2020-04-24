@@ -199,7 +199,7 @@
             M[offset + 3] = t3;
         },
 
-        keySize: 256/32
+        keySize: 128/32
     });
 
     /**
